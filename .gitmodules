@@ -4,15 +4,4 @@
 [submodule "testing-DMA-UART"]
 	path = testing-DMA-UART
 	url = git@github.com:autoking77/testing-DMA-UART.git
-[submodule "UART_SPI_Between_2STM32"]
-	path = UART_SPI_Between_2STM32
-	url = git@github.com:Piistachyoo/UART_SPI_Between_2STM32.git
-[submodule "Calculator_STM32F103"]
-	path = Calculator_STM32F103
-	url = git@github.com:Piistachyoo/Calculator_STM32F103.git
-[submodule "Pressure_Detection_System_STM32F103"]
-	path = Pressure_Detection_System_STM32F103
-	url = git@github.com:Piistachyoo/Pressure_Detection_System_STM32F103.git
-[submodule "STM32F103C8-BareMetal-SW"]
-	path = STM32F103C8-BareMetal-SW
-	url = git@github.com:Piistachyoo/STM32F103C8-BareMetal-SW.git
+
