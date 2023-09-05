@@ -1,1 +1,7 @@
+[submodule "test"]
+	path = test
+	url = git@github.com:autoking77/test.git
+[submodule "testing-DMA-UART"]
+	path = testing-DMA-UART
+	url = https://github.com/autoking77/testing-DMA-UART.git
 
